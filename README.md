@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-
 # hcs_ai_ui
 
-=======
 Draft of HCS AI Course Assistant Project UI
 
 ## Getting Started
